@@ -1,0 +1,160 @@
+{"text":"Il signor Laura Marino risiede a Padova dal 2019.","entities":[{"start":10,"end":22,"category":"PERSON"},{"start":33,"end":39,"category":"LOCATION"}]}
+{"text":"La società Initech Servizi S.r.l. ha sede a Firenze.","entities":[{"start":11,"end":33,"category":"ORGANIZATION"},{"start":44,"end":51,"category":"LOCATION"}]}
+{"text":"Laura Rizzo lavora presso Banca Alpina S.p.A..","entities":[{"start":0,"end":11,"category":"PERSON"},{"start":26,"end":45,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Giulia De Luca per conto di Studio Legale Ferri.","entities":[{"start":26,"end":40,"category":"PERSON"},{"start":54,"end":73,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Marco Rizzo, responsabile dell'ufficio di Roma.","entities":[{"start":23,"end":34,"category":"PERSON"},{"start":65,"end":69,"category":"LOCATION"}]}
+{"text":"La dottoressa Andrea De Luca ha visitato il paziente a Milano.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":61,"category":"LOCATION"}]}
+{"text":"L'avvocato Davide Greco rappresenta Tecnomeccanica Padana S.r.l. nella causa.","entities":[{"start":11,"end":23,"category":"PERSON"},{"start":36,"end":64,"category":"ORGANIZATION"}]}
+{"text":"Studio Legale Ferri ha assunto Martina Colombo come consulente.","entities":[{"start":0,"end":19,"category":"ORGANIZATION"},{"start":31,"end":46,"category":"PERSON"}]}
+{"text":"Il signor Martina De Luca risiede a Verona dal 2019.","entities":[{"start":10,"end":25,"category":"PERSON"},{"start":36,"end":42,"category":"LOCATION"}]}
+{"text":"La società Fondazione Aurora ha sede a Bologna.","entities":[{"start":11,"end":28,"category":"ORGANIZATION"},{"start":39,"end":46,"category":"LOCATION"}]}
+{"text":"Alessandro Giordano lavora presso Umbra Costruzioni S.p.A..","entities":[{"start":0,"end":19,"category":"PERSON"},{"start":34,"end":58,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Francesca Rossi per conto di Globex Italia S.r.l..","entities":[{"start":26,"end":41,"category":"PERSON"},{"start":55,"end":75,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Silvia Rizzo, responsabile dell'ufficio di Napoli.","entities":[{"start":23,"end":35,"category":"PERSON"},{"start":66,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Giulia Rossi ha visitato il paziente a Palermo.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":60,"category":"LOCATION"}]}
+{"text":"L'avvocato Paolo Colombo rappresenta Initech Servizi S.r.l. nella causa.","entities":[{"start":11,"end":24,"category":"PERSON"},{"start":37,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Acme Logistica S.p.A. ha assunto Giovanni Ricci come consulente.","entities":[{"start":0,"end":21,"category":"ORGANIZATION"},{"start":33,"end":47,"category":"PERSON"}]}
+{"text":"Il signor Giulia Esposito risiede a Bari dal 2019.","entities":[{"start":10,"end":25,"category":"PERSON"},{"start":36,"end":40,"category":"LOCATION"}]}
+{"text":"La società Initech Servizi S.r.l. ha sede a Brescia.","entities":[{"start":11,"end":33,"category":"ORGANIZATION"},{"start":44,"end":51,"category":"LOCATION"}]}
+{"text":"Laura Lombardi lavora presso Tecnomeccanica Padana S.r.l..","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":29,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Paolo Rossi per conto di Initech Servizi S.r.l..","entities":[{"start":26,"end":37,"category":"PERSON"},{"start":51,"end":73,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Giulia Ferrari, responsabile dell'ufficio di Milano.","entities":[{"start":23,"end":37,"category":"PERSON"},{"start":68,"end":74,"category":"LOCATION"}]}
+{"text":"La dottoressa Sara Ferrari ha visitato il paziente a Brescia.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":60,"category":"LOCATION"}]}
+{"text":"L'avvocato Sara Gallo rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":21,"category":"PERSON"},{"start":34,"end":53,"category":"ORGANIZATION"}]}
+{"text":"Initech Servizi S.r.l. ha assunto Mario Rossi come consulente.","entities":[{"start":0,"end":22,"category":"ORGANIZATION"},{"start":34,"end":45,"category":"PERSON"}]}
+{"text":"Il signor Paolo Ferrari risiede a Palermo dal 2019.","entities":[{"start":10,"end":23,"category":"PERSON"},{"start":34,"end":41,"category":"LOCATION"}]}
+{"text":"La società Acme Logistica S.p.A. ha sede a Brescia.","entities":[{"start":11,"end":32,"category":"ORGANIZATION"},{"start":43,"end":50,"category":"LOCATION"}]}
+{"text":"Marco Ricci lavora presso Fondazione Aurora.","entities":[{"start":0,"end":11,"category":"PERSON"},{"start":26,"end":43,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Davide Ricci per conto di Studio Legale Ferri.","entities":[{"start":26,"end":38,"category":"PERSON"},{"start":52,"end":71,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Federica Costa, responsabile dell'ufficio di Parma.","entities":[{"start":23,"end":37,"category":"PERSON"},{"start":68,"end":73,"category":"LOCATION"}]}
+{"text":"La dottoressa Chiara Mancini ha visitato il paziente a Torino.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":61,"category":"LOCATION"}]}
+{"text":"L'avvocato Federica De Luca rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":27,"category":"PERSON"},{"start":40,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Initech Servizi S.r.l. ha assunto Laura Giordano come consulente.","entities":[{"start":0,"end":22,"category":"ORGANIZATION"},{"start":34,"end":48,"category":"PERSON"}]}
+{"text":"Il signor Elena De Luca risiede a Palermo dal 2019.","entities":[{"start":10,"end":23,"category":"PERSON"},{"start":34,"end":41,"category":"LOCATION"}]}
+{"text":"La società Globex Italia S.r.l. ha sede a Padova.","entities":[{"start":11,"end":31,"category":"ORGANIZATION"},{"start":42,"end":48,"category":"LOCATION"}]}
+{"text":"Federica Rizzo lavora presso Acme Logistica S.p.A..","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":29,"end":50,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Giovanni Marino per conto di Studio Legale Ferri.","entities":[{"start":26,"end":41,"category":"PERSON"},{"start":55,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Chiara Bruno, responsabile dell'ufficio di Verona.","entities":[{"start":23,"end":35,"category":"PERSON"},{"start":66,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Elena Bruno ha visitato il paziente a Palermo.","entities":[{"start":14,"end":25,"category":"PERSON"},{"start":52,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Silvia Bianchi rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":25,"category":"PERSON"},{"start":38,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Fondazione Aurora ha assunto Martina Colombo come consulente.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":29,"end":44,"category":"PERSON"}]}
+{"text":"Il signor Roberto Rossi risiede a Brescia dal 2019.","entities":[{"start":10,"end":23,"category":"PERSON"},{"start":34,"end":41,"category":"LOCATION"}]}
+{"text":"La società Globex Italia S.r.l. ha sede a Venezia.","entities":[{"start":11,"end":31,"category":"ORGANIZATION"},{"start":42,"end":49,"category":"LOCATION"}]}
+{"text":"Luca Bruno lavora presso Globex Italia S.r.l..","entities":[{"start":0,"end":10,"category":"PERSON"},{"start":25,"end":45,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Luca Gallo per conto di Umbra Costruzioni S.p.A..","entities":[{"start":26,"end":36,"category":"PERSON"},{"start":50,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Giovanni Bruno, responsabile dell'ufficio di Bari.","entities":[{"start":23,"end":37,"category":"PERSON"},{"start":68,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Elena Romano ha visitato il paziente a Genova.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Davide Esposito rappresenta Tecnomeccanica Padana S.r.l. nella causa.","entities":[{"start":11,"end":26,"category":"PERSON"},{"start":39,"end":67,"category":"ORGANIZATION"}]}
+{"text":"Fondazione Aurora ha assunto Martina Mancini come consulente.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":29,"end":44,"category":"PERSON"}]}
+{"text":"Il signor Marco Rizzo risiede a Venezia dal 2019.","entities":[{"start":10,"end":21,"category":"PERSON"},{"start":32,"end":39,"category":"LOCATION"}]}
+{"text":"La società Banca Alpina S.p.A. ha sede a Milano.","entities":[{"start":11,"end":30,"category":"ORGANIZATION"},{"start":41,"end":47,"category":"LOCATION"}]}
+{"text":"Francesca Marino lavora presso Studio Legale Ferri.","entities":[{"start":0,"end":16,"category":"PERSON"},{"start":31,"end":50,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Marco De Luca per conto di Banca Alpina S.p.A..","entities":[{"start":26,"end":39,"category":"PERSON"},{"start":53,"end":72,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Roberto Rossi, responsabile dell'ufficio di Napoli.","entities":[{"start":23,"end":36,"category":"PERSON"},{"start":67,"end":73,"category":"LOCATION"}]}
+{"text":"La dottoressa Federica Ferrari ha visitato il paziente a Genova.","entities":[{"start":14,"end":30,"category":"PERSON"},{"start":57,"end":63,"category":"LOCATION"}]}
+{"text":"L'avvocato Sara Colombo rappresenta Fondazione Aurora nella causa.","entities":[{"start":11,"end":23,"category":"PERSON"},{"start":36,"end":53,"category":"ORGANIZATION"}]}
+{"text":"Tecnomeccanica Padana S.r.l. ha assunto Laura Mancini come consulente.","entities":[{"start":0,"end":28,"category":"ORGANIZATION"},{"start":40,"end":53,"category":"PERSON"}]}
+{"text":"Il signor Silvia Costa risiede a Verona dal 2019.","entities":[{"start":10,"end":22,"category":"PERSON"},{"start":33,"end":39,"category":"LOCATION"}]}
+{"text":"La società Tecnomeccanica Padana S.r.l. ha sede a Roma.","entities":[{"start":11,"end":39,"category":"ORGANIZATION"},{"start":50,"end":54,"category":"LOCATION"}]}
+{"text":"Sara Romano lavora presso Umbra Costruzioni S.p.A..","entities":[{"start":0,"end":11,"category":"PERSON"},{"start":26,"end":50,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Elena Gallo per conto di Initech Servizi S.r.l..","entities":[{"start":26,"end":37,"category":"PERSON"},{"start":51,"end":73,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Paolo De Luca, responsabile dell'ufficio di Torino.","entities":[{"start":23,"end":36,"category":"PERSON"},{"start":67,"end":73,"category":"LOCATION"}]}
+{"text":"La dottoressa Laura Giordano ha visitato il paziente a Roma.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Chiara Romano rappresenta Globex Italia S.r.l. nella causa.","entities":[{"start":11,"end":24,"category":"PERSON"},{"start":37,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Umbra Costruzioni S.p.A. ha assunto Roberto Mancini come consulente.","entities":[{"start":0,"end":24,"category":"ORGANIZATION"},{"start":36,"end":51,"category":"PERSON"}]}
+{"text":"Il signor Giulia Rizzo risiede a Firenze dal 2019.","entities":[{"start":10,"end":22,"category":"PERSON"},{"start":33,"end":40,"category":"LOCATION"}]}
+{"text":"La società Tecnomeccanica Padana S.r.l. ha sede a Padova.","entities":[{"start":11,"end":39,"category":"ORGANIZATION"},{"start":50,"end":56,"category":"LOCATION"}]}
+{"text":"Sara Gallo lavora presso Studio Legale Ferri.","entities":[{"start":0,"end":10,"category":"PERSON"},{"start":25,"end":44,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Silvia Conti per conto di Acme Logistica S.p.A..","entities":[{"start":26,"end":38,"category":"PERSON"},{"start":52,"end":73,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Francesca De Luca, responsabile dell'ufficio di Palermo.","entities":[{"start":23,"end":40,"category":"PERSON"},{"start":71,"end":78,"category":"LOCATION"}]}
+{"text":"La dottoressa Laura Ferrari ha visitato il paziente a Firenze.","entities":[{"start":14,"end":27,"category":"PERSON"},{"start":54,"end":61,"category":"LOCATION"}]}
+{"text":"L'avvocato Federica Colombo rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":27,"category":"PERSON"},{"start":40,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Globex Italia S.r.l. ha assunto Alessandro Conti come consulente.","entities":[{"start":0,"end":20,"category":"ORGANIZATION"},{"start":32,"end":48,"category":"PERSON"}]}
+{"text":"Il signor Chiara Esposito risiede a Venezia dal 2019.","entities":[{"start":10,"end":25,"category":"PERSON"},{"start":36,"end":43,"category":"LOCATION"}]}
+{"text":"La società Fondazione Aurora ha sede a Torino.","entities":[{"start":11,"end":28,"category":"ORGANIZATION"},{"start":39,"end":45,"category":"LOCATION"}]}
+{"text":"Luca Rizzo lavora presso Tecnomeccanica Padana S.r.l..","entities":[{"start":0,"end":10,"category":"PERSON"},{"start":25,"end":53,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Sara Lombardi per conto di Acme Logistica S.p.A..","entities":[{"start":26,"end":39,"category":"PERSON"},{"start":53,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Sara Ricci, responsabile dell'ufficio di Torino.","entities":[{"start":23,"end":33,"category":"PERSON"},{"start":64,"end":70,"category":"LOCATION"}]}
+{"text":"La dottoressa Valentina Conti ha visitato il paziente a Milano.","entities":[{"start":14,"end":29,"category":"PERSON"},{"start":56,"end":62,"category":"LOCATION"}]}
+{"text":"L'avvocato Valentina Marino rappresenta Tecnomeccanica Padana S.r.l. nella causa.","entities":[{"start":11,"end":27,"category":"PERSON"},{"start":40,"end":68,"category":"ORGANIZATION"}]}
+{"text":"Acme Logistica S.p.A. ha assunto Silvia Rizzo come consulente.","entities":[{"start":0,"end":21,"category":"ORGANIZATION"},{"start":33,"end":45,"category":"PERSON"}]}
+{"text":"Il signor Alessandro Conti risiede a Trieste dal 2019.","entities":[{"start":10,"end":26,"category":"PERSON"},{"start":37,"end":44,"category":"LOCATION"}]}
+{"text":"La società Acme Logistica S.p.A. ha sede a Napoli.","entities":[{"start":11,"end":32,"category":"ORGANIZATION"},{"start":43,"end":49,"category":"LOCATION"}]}
+{"text":"Roberto Gallo lavora presso Initech Servizi S.r.l..","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":28,"end":50,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Davide Ferrari per conto di Tecnomeccanica Padana S.r.l..","entities":[{"start":26,"end":40,"category":"PERSON"},{"start":54,"end":82,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Alessandro Marino, responsabile dell'ufficio di Torino.","entities":[{"start":23,"end":40,"category":"PERSON"},{"start":71,"end":77,"category":"LOCATION"}]}
+{"text":"La dottoressa Chiara De Luca ha visitato il paziente a Brescia.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":62,"category":"LOCATION"}]}
+{"text":"L'avvocato Stefano Ferrari rappresenta Fondazione Aurora nella causa.","entities":[{"start":11,"end":26,"category":"PERSON"},{"start":39,"end":56,"category":"ORGANIZATION"}]}
+{"text":"Umbra Costruzioni S.p.A. ha assunto Silvia Barbieri come consulente.","entities":[{"start":0,"end":24,"category":"ORGANIZATION"},{"start":36,"end":51,"category":"PERSON"}]}
+{"text":"Il signor Federica Esposito risiede a Brescia dal 2019.","entities":[{"start":10,"end":27,"category":"PERSON"},{"start":38,"end":45,"category":"LOCATION"}]}
+{"text":"La società Tecnomeccanica Padana S.r.l. ha sede a Trieste.","entities":[{"start":11,"end":39,"category":"ORGANIZATION"},{"start":50,"end":57,"category":"LOCATION"}]}
+{"text":"Luca Rizzo lavora presso Banca Alpina S.p.A..","entities":[{"start":0,"end":10,"category":"PERSON"},{"start":25,"end":44,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Davide Esposito per conto di Initech Servizi S.r.l..","entities":[{"start":26,"end":41,"category":"PERSON"},{"start":55,"end":77,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Silvia Marino, responsabile dell'ufficio di Roma.","entities":[{"start":23,"end":36,"category":"PERSON"},{"start":67,"end":71,"category":"LOCATION"}]}
+{"text":"La dottoressa Giulia Colombo ha visitato il paziente a Roma.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Federica Moretti rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":27,"category":"PERSON"},{"start":40,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Banca Alpina S.p.A. ha assunto Roberto Gallo come consulente.","entities":[{"start":0,"end":19,"category":"ORGANIZATION"},{"start":31,"end":44,"category":"PERSON"}]}
+{"text":"Il signor Roberto Bruno risiede a Milano dal 2019.","entities":[{"start":10,"end":23,"category":"PERSON"},{"start":34,"end":40,"category":"LOCATION"}]}
+{"text":"La società Globex Italia S.r.l. ha sede a Brescia.","entities":[{"start":11,"end":31,"category":"ORGANIZATION"},{"start":42,"end":49,"category":"LOCATION"}]}
+{"text":"Mario Esposito lavora presso Banca Alpina S.p.A..","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":29,"end":48,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Federica Mancini per conto di Globex Italia S.r.l..","entities":[{"start":26,"end":42,"category":"PERSON"},{"start":56,"end":76,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Andrea Gallo, responsabile dell'ufficio di Genova.","entities":[{"start":23,"end":35,"category":"PERSON"},{"start":66,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Mario Lombardi ha visitato il paziente a Genova.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":61,"category":"LOCATION"}]}
+{"text":"L'avvocato Elena Lombardi rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":25,"category":"PERSON"},{"start":38,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Globex Italia S.r.l. ha assunto Silvia Bruno come consulente.","entities":[{"start":0,"end":20,"category":"ORGANIZATION"},{"start":32,"end":44,"category":"PERSON"}]}
+{"text":"Il signor Silvia Bruno risiede a Venezia dal 2019.","entities":[{"start":10,"end":22,"category":"PERSON"},{"start":33,"end":40,"category":"LOCATION"}]}
+{"text":"La società Studio Legale Ferri ha sede a Padova.","entities":[{"start":11,"end":30,"category":"ORGANIZATION"},{"start":41,"end":47,"category":"LOCATION"}]}
+{"text":"Roberto Bianchi lavora presso Fondazione Aurora.","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":30,"end":47,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Stefano Bianchi per conto di Banca Alpina S.p.A..","entities":[{"start":26,"end":41,"category":"PERSON"},{"start":55,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Giovanni Lombardi, responsabile dell'ufficio di Genova.","entities":[{"start":23,"end":40,"category":"PERSON"},{"start":71,"end":77,"category":"LOCATION"}]}
+{"text":"La dottoressa Silvia Costa ha visitato il paziente a Venezia.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":60,"category":"LOCATION"}]}
+{"text":"L'avvocato Marco Gallo rappresenta Tecnomeccanica Padana S.r.l. nella causa.","entities":[{"start":11,"end":22,"category":"PERSON"},{"start":35,"end":63,"category":"ORGANIZATION"}]}
+{"text":"Tecnomeccanica Padana S.r.l. ha assunto Andrea Colombo come consulente.","entities":[{"start":0,"end":28,"category":"ORGANIZATION"},{"start":40,"end":54,"category":"PERSON"}]}
+{"text":"Il signor Roberto Lombardi risiede a Milano dal 2019.","entities":[{"start":10,"end":26,"category":"PERSON"},{"start":37,"end":43,"category":"LOCATION"}]}
+{"text":"La società Umbra Costruzioni S.p.A. ha sede a Bari.","entities":[{"start":11,"end":35,"category":"ORGANIZATION"},{"start":46,"end":50,"category":"LOCATION"}]}
+{"text":"Andrea Ricci lavora presso Tecnomeccanica Padana S.r.l..","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":27,"end":55,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Sara Greco per conto di Studio Legale Ferri.","entities":[{"start":26,"end":36,"category":"PERSON"},{"start":50,"end":69,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Luca Ferrari, responsabile dell'ufficio di Napoli.","entities":[{"start":23,"end":35,"category":"PERSON"},{"start":66,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Silvia Lombardi ha visitato il paziente a Brescia.","entities":[{"start":14,"end":29,"category":"PERSON"},{"start":56,"end":63,"category":"LOCATION"}]}
+{"text":"L'avvocato Valentina Esposito rappresenta Umbra Costruzioni S.p.A. nella causa.","entities":[{"start":11,"end":29,"category":"PERSON"},{"start":42,"end":66,"category":"ORGANIZATION"}]}
+{"text":"Banca Alpina S.p.A. ha assunto Federica Rizzo come consulente.","entities":[{"start":0,"end":19,"category":"ORGANIZATION"},{"start":31,"end":45,"category":"PERSON"}]}
+{"text":"Il signor Roberto Barbieri risiede a Verona dal 2019.","entities":[{"start":10,"end":26,"category":"PERSON"},{"start":37,"end":43,"category":"LOCATION"}]}
+{"text":"La società Tecnomeccanica Padana S.r.l. ha sede a Bologna.","entities":[{"start":11,"end":39,"category":"ORGANIZATION"},{"start":50,"end":57,"category":"LOCATION"}]}
+{"text":"Andrea De Luca lavora presso Banca Alpina S.p.A..","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":29,"end":48,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Chiara Rossi per conto di Banca Alpina S.p.A..","entities":[{"start":26,"end":38,"category":"PERSON"},{"start":52,"end":71,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Martina Marino, responsabile dell'ufficio di Roma.","entities":[{"start":23,"end":37,"category":"PERSON"},{"start":68,"end":72,"category":"LOCATION"}]}
+{"text":"La dottoressa Roberto Lombardi ha visitato il paziente a Genova.","entities":[{"start":14,"end":30,"category":"PERSON"},{"start":57,"end":63,"category":"LOCATION"}]}
+{"text":"L'avvocato Mario Rizzo rappresenta Banca Alpina S.p.A. nella causa.","entities":[{"start":11,"end":22,"category":"PERSON"},{"start":35,"end":54,"category":"ORGANIZATION"}]}
+{"text":"Globex Italia S.r.l. ha assunto Sara Moretti come consulente.","entities":[{"start":0,"end":20,"category":"ORGANIZATION"},{"start":32,"end":44,"category":"PERSON"}]}
+{"text":"Il signor Marco Costa risiede a Genova dal 2019.","entities":[{"start":10,"end":21,"category":"PERSON"},{"start":32,"end":38,"category":"LOCATION"}]}
+{"text":"La società Banca Alpina S.p.A. ha sede a Roma.","entities":[{"start":11,"end":30,"category":"ORGANIZATION"},{"start":41,"end":45,"category":"LOCATION"}]}
+{"text":"Andrea De Luca lavora presso Banca Alpina S.p.A..","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":29,"end":48,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Valentina Lombardi per conto di Globex Italia S.r.l..","entities":[{"start":26,"end":44,"category":"PERSON"},{"start":58,"end":78,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Martina Esposito, responsabile dell'ufficio di Firenze.","entities":[{"start":23,"end":39,"category":"PERSON"},{"start":70,"end":77,"category":"LOCATION"}]}
+{"text":"La dottoressa Chiara Rossi ha visitato il paziente a Genova.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Laura Moretti rappresenta Umbra Costruzioni S.p.A. nella causa.","entities":[{"start":11,"end":24,"category":"PERSON"},{"start":37,"end":61,"category":"ORGANIZATION"}]}
+{"text":"Umbra Costruzioni S.p.A. ha assunto Luca Romano come consulente.","entities":[{"start":0,"end":24,"category":"ORGANIZATION"},{"start":36,"end":47,"category":"PERSON"}]}
+{"text":"Il signor Giovanni Rossi risiede a Venezia dal 2019.","entities":[{"start":10,"end":24,"category":"PERSON"},{"start":35,"end":42,"category":"LOCATION"}]}
+{"text":"La società Studio Legale Ferri ha sede a Bologna.","entities":[{"start":11,"end":30,"category":"ORGANIZATION"},{"start":41,"end":48,"category":"LOCATION"}]}
+{"text":"Francesca Rossi lavora presso Fondazione Aurora.","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":30,"end":47,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Martina Gallo per conto di Acme Logistica S.p.A..","entities":[{"start":26,"end":39,"category":"PERSON"},{"start":53,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Mario Ricci, responsabile dell'ufficio di Roma.","entities":[{"start":23,"end":34,"category":"PERSON"},{"start":65,"end":69,"category":"LOCATION"}]}
+{"text":"La dottoressa Elena Romano ha visitato il paziente a Genova.","entities":[{"start":14,"end":26,"category":"PERSON"},{"start":53,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Federica Lombardi rappresenta Fondazione Aurora nella causa.","entities":[{"start":11,"end":28,"category":"PERSON"},{"start":41,"end":58,"category":"ORGANIZATION"}]}
+{"text":"Acme Logistica S.p.A. ha assunto Paolo Bianchi come consulente.","entities":[{"start":0,"end":21,"category":"ORGANIZATION"},{"start":33,"end":46,"category":"PERSON"}]}
+{"text":"Il signor Valentina Ricci risiede a Verona dal 2019.","entities":[{"start":10,"end":25,"category":"PERSON"},{"start":36,"end":42,"category":"LOCATION"}]}
+{"text":"La società Fondazione Aurora ha sede a Napoli.","entities":[{"start":11,"end":28,"category":"ORGANIZATION"},{"start":39,"end":45,"category":"LOCATION"}]}
+{"text":"Valentina Bianchi lavora presso Studio Legale Ferri.","entities":[{"start":0,"end":17,"category":"PERSON"},{"start":32,"end":51,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Chiara Rossi per conto di Initech Servizi S.r.l..","entities":[{"start":26,"end":38,"category":"PERSON"},{"start":52,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Francesca Rizzo, responsabile dell'ufficio di Bologna.","entities":[{"start":23,"end":38,"category":"PERSON"},{"start":69,"end":76,"category":"LOCATION"}]}
+{"text":"La dottoressa Mario Conti ha visitato il paziente a Trieste.","entities":[{"start":14,"end":25,"category":"PERSON"},{"start":52,"end":59,"category":"LOCATION"}]}
+{"text":"L'avvocato Giulia Barbieri rappresenta Globex Italia S.r.l. nella causa.","entities":[{"start":11,"end":26,"category":"PERSON"},{"start":39,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Acme Logistica S.p.A. ha assunto Marco Romano come consulente.","entities":[{"start":0,"end":21,"category":"ORGANIZATION"},{"start":33,"end":45,"category":"PERSON"}]}
+{"text":"Il signor Laura Lombardi risiede a Parma dal 2019.","entities":[{"start":10,"end":24,"category":"PERSON"},{"start":35,"end":40,"category":"LOCATION"}]}
+{"text":"La società Banca Alpina S.p.A. ha sede a Bologna.","entities":[{"start":11,"end":30,"category":"ORGANIZATION"},{"start":41,"end":48,"category":"LOCATION"}]}
+{"text":"Giulia Lombardi lavora presso Fondazione Aurora.","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":30,"end":47,"category":"ORGANIZATION"}]}
+{"text":"Il contratto è firmato da Martina Giordano per conto di Banca Alpina S.p.A..","entities":[{"start":26,"end":42,"category":"PERSON"},{"start":56,"end":75,"category":"ORGANIZATION"}]}
+{"text":"Si prega di contattare Davide Greco, responsabile dell'ufficio di Bari.","entities":[{"start":23,"end":35,"category":"PERSON"},{"start":66,"end":70,"category":"LOCATION"}]}
+{"text":"La dottoressa Giulia Moretti ha visitato il paziente a Brescia.","entities":[{"start":14,"end":28,"category":"PERSON"},{"start":55,"end":62,"category":"LOCATION"}]}
+{"text":"L'avvocato Paolo Rizzo rappresenta Globex Italia S.r.l. nella causa.","entities":[{"start":11,"end":22,"category":"PERSON"},{"start":35,"end":55,"category":"ORGANIZATION"}]}
+{"text":"Initech Servizi S.r.l. ha assunto Andrea Colombo come consulente.","entities":[{"start":0,"end":22,"category":"ORGANIZATION"},{"start":34,"end":48,"category":"PERSON"}]}

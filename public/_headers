@@ -1,0 +1,9 @@
+# Cloudflare Pages / Netlify response headers (ignored by hosts that do not support the file).
+# Cross-origin isolation enables multi-threaded WASM detection; where these headers cannot be sent
+# (GitHub Pages) the app's service worker adds them instead.
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: credentialless
+  Cross-Origin-Resource-Policy: same-origin
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff

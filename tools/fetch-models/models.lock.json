@@ -1,0 +1,36 @@
+{
+  "models": [
+    {
+      "id": "oscurapdf/pii-it-distilbert",
+      "commit": "model-v1",
+      "baseUrl": "https://github.com/nicogall/oscurapdf/releases/download/model-v1",
+      "files": [
+        {
+          "path": "config.json",
+          "sha256": "728b4fb9c431e593dbd6583711eaf713302f7a36486c350ed97d5cc648a96ea0",
+          "size": 2447
+        },
+        {
+          "path": "tokenizer.json",
+          "sha256": "365be1735058e689dd4db1fe0cab05549f3283e9eb7097a053bead369e83d695",
+          "size": 2919460
+        },
+        {
+          "path": "tokenizer_config.json",
+          "sha256": "6f407a9caf987dd909dc7aee2e69ef872abf2d0d37bd84f053b56e4631541e4d",
+          "size": 1387
+        },
+        {
+          "path": "special_tokens_map.json",
+          "sha256": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+          "size": 695
+        },
+        {
+          "path": "onnx/model_quantized.onnx",
+          "sha256": "a5c5da9c81dd31ceffd66a7490301d1b2cfd3002b27faa2b5b12a48bf3a98b6d",
+          "size": 135158353
+        }
+      ]
+    }
+  ]
+}

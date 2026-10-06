@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+# Engine and model binaries: nothing to index.
+Disallow: /models/
+Disallow: /ort/
+
+Sitemap: https://oscurapdf.it/sitemap.xml

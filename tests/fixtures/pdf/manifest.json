@@ -1,0 +1,185 @@
+{
+  "contract-it-en.pdf": {
+    "phrase": "ACME Holdings Ltd.",
+    "occurrences": 3,
+    "pages": [
+      0,
+      0,
+      1
+    ],
+    "splitAcrossLines": 1
+  },
+  "ten-pages.pdf": {
+    "pages": 10
+  },
+  "long-document.pdf": {
+    "pages": 43
+  },
+  "multi-span.pdf": {
+    "runsLine": "Signed by Mario Rossi on behalf of ACME.",
+    "ligatureText": "final clause",
+    "rotatedPage": 1,
+    "rotatedText": "Rotated page for Mario Rossi."
+  },
+  "locked.pdf": {
+    "passwordProtected": true
+  },
+  "scan-only.pdf": {
+    "imageOnly": true,
+    "pages": 2
+  },
+  "metadata-leak.pdf": {
+    "name": "Mario Rossi",
+    "producer": "Synthetic Fixture Producer",
+    "channels": [
+      "infoDictionary",
+      "xmp",
+      "outline",
+      "annotationContents",
+      "formField",
+      "attachment",
+      "earlierRevision"
+    ]
+  },
+  "scanned-with-ocr-layer.pdf": {
+    "name": "Mario Rossi",
+    "lines": [
+      "Scanned letter for Mario Rossi",
+      "Via Roma 14, Milano"
+    ]
+  },
+  "scanned-jpeg.pdf": {
+    "name": "Giulia Bianchi",
+    "pages": 3
+  },
+  "pii-sampler.pdf": {
+    "expected": [
+      {
+        "text": "John Smith",
+        "category": "PERSON",
+        "confidence": "high"
+      },
+      {
+        "text": "Mario Rossi",
+        "category": "PERSON",
+        "confidence": "high"
+      },
+      {
+        "text": "Roma",
+        "category": "LOCATION",
+        "confidence": "high"
+      },
+      {
+        "text": "john.smith@example.com",
+        "category": "EMAIL",
+        "confidence": "high"
+      },
+      {
+        "text": "mario.rossi@example.it",
+        "category": "EMAIL",
+        "confidence": "high"
+      },
+      {
+        "text": "+39 333 123 4567",
+        "category": "PHONE",
+        "confidence": "high"
+      },
+      {
+        "text": "IT60X0542811101000000123456",
+        "category": "IBAN",
+        "confidence": "high"
+      },
+      {
+        "text": "4111 1111 1111 1111",
+        "category": "PAYMENT_CARD",
+        "confidence": "high"
+      },
+      {
+        "text": "RSSMRA85T10A562S",
+        "category": "IT_TAX_CODE",
+        "confidence": "high"
+      },
+      {
+        "text": "01234567897",
+        "category": "IT_VAT",
+        "confidence": "high"
+      },
+      {
+        "text": "https://www.acme-holdings.example.com",
+        "category": "URL",
+        "confidence": "high"
+      },
+      {
+        "text": "ACME Holdings Ltd.",
+        "category": "ORGANIZATION",
+        "confidence": "high"
+      },
+      {
+        "text": "Globex Corporation",
+        "category": "ORGANIZATION",
+        "confidence": "medium"
+      }
+    ],
+    "corrupted": [
+      {
+        "text": "IT60X0542811101000000123457",
+        "category": "IBAN",
+        "reported": true
+      },
+      {
+        "text": "4111 1111 1111 1112",
+        "category": "PAYMENT_CARD",
+        "reported": false
+      },
+      {
+        "text": "RSSMRA85T10A562T",
+        "category": "IT_TAX_CODE",
+        "reported": true
+      },
+      {
+        "text": "01234567890",
+        "category": "CONTEXTUAL_ID",
+        "reported": true
+      }
+    ],
+    "notSuggested": [
+      "London",
+      "Torino",
+      "Personal data sheet"
+    ]
+  },
+  "signed-letter.pdf": {
+    "signatureBox": {
+      "x": 60,
+      "y": 300,
+      "width": 220,
+      "height": 70
+    },
+    "stamp": {
+      "cx": 420,
+      "cy": 335,
+      "radius": 40
+    },
+    "overlappingText": "Signed"
+  },
+  "not-a-pdf.txt": {
+    "rejected": "notPdf"
+  },
+  "corrupt.pdf": {
+    "rejected": "invalid"
+  },
+  "51mb.pdf": {
+    "rejected": "tooLarge"
+  },
+  "partially-scanned.pdf": {
+    "pagesWithoutText": [
+      1
+    ]
+  },
+  "broken-character-map.pdf": {
+    "unreadablePages": [
+      0
+    ],
+    "email": "mario.esempio@example.it"
+  }
+}
