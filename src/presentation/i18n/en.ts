@@ -1,0 +1,183 @@
+import { landingEn } from './landing-en';
+
+/** English UI copy. Source of truth for the key structure (FR-033). */
+export const en = {
+  app: {
+    title: 'Redact PDF',
+    tagline: 'Remove sensitive information locally.',
+    badge: 'Runs on your device',
+    home: 'Back to the start page',
+    privacy: 'Your document never leaves this device.',
+  },
+  language: {
+    label: 'Language',
+    en: 'English',
+    it: 'Italiano',
+  },
+  empty: {
+    drop: 'Drop your PDF here',
+    or: 'or',
+    choose: 'Choose a PDF',
+  },
+  landing: landingEn,
+  loading: {
+    title: 'Opening your document…',
+    cancel: 'Cancel',
+    stages: {
+      read: 'Reading the file',
+      extract: 'Extracting text',
+      detect: 'Looking for sensitive information',
+      models: 'Downloading the analysis tools (first use only)',
+    },
+  },
+  rejected: {
+    notPdf: 'This file is not a PDF. Please choose a PDF document.',
+    invalid: 'This PDF is damaged or uses a structure that is not supported.',
+    tooLarge: 'This file is larger than 50 MB. Files up to 50 MB are supported.',
+    passwordProtected: 'This PDF is password-protected. Password-protected PDFs are not supported in this version.',
+    back: 'Choose another file',
+  },
+  imageOnly: {
+    message: 'This PDF appears to be scanned or image-based. Automatic text redaction is not currently supported.',
+    back: 'Choose another file',
+  },
+  notChecked: {
+    banner: 'Pages without text were not checked automatically: {{pages}}. You can still redact them with “Select area”.',
+    unreadable: 'Text that cannot be read automatically on pages: {{pages}}. The PDF does not say which characters it draws, so the dashed zones were not checked automatically: drag over them to redact them.',
+    zone: 'Text that cannot be read automatically: drag to redact this part',
+  },
+  close: {
+    confirm: 'Close this document? Redactions you have not exported will be lost.',
+    yes: 'Close document',
+    no: 'Keep working',
+  },
+  replace: {
+    confirm: 'Open another document? The current document and its redactions will be discarded.',
+    yes: 'Discard and open',
+    no: 'Keep current document',
+  },
+  viewer: {
+    page: 'Page {{number}}',
+    redact: 'Redact',
+    removeAutomatic_one: 'Do not redact “{{label}}” (it stays among the suggestions)',
+    removeAutomatic_other: 'Do not redact “{{label}}” in all {{count}} places (it stays among the suggestions)',
+    removeManual_one: 'Remove “{{label}}”',
+    removeManual_other: 'Remove “{{label}}” from all {{count}} places',
+  },
+  tools: {
+    label: 'Tool',
+    selectText: 'Select text',
+    drawArea: 'Select area',
+    drawHint: 'Drag over the part to redact (signatures, stamps, images). Esc to cancel.',
+  },
+  review: {
+    fileInfo: '{{name}} · {{size}}',
+    summary: '{{count}} potential sensitive items',
+    automatic: '{{count}} detected automatically',
+    manual: '{{count}} manually selected',
+    selectAll: 'Select all',
+    deselectAll: 'Deselect all',
+    redactExport: 'Redact & Export',
+    undo: 'Undo',
+    redo: 'Redo',
+    close: 'Close document',
+    shortcut: '{{action}} ({{keys}})',
+    nothingSelected: 'Select at least one item to redact.',
+    manualBadge: 'MANUAL',
+    occurrences: '×{{count}}',
+    remove: 'Remove',
+    removeItem: 'Remove {{label}}',
+    empty: 'Select text in the document and choose Redact to add it here.',
+    listLabel: 'Redactions',
+    itemLabel: 'Redact "{{label}}"',
+    area: 'Area, page {{page}}',
+  },
+  detection: {
+    running: 'Looking for sensitive information…',
+    preparing: 'Preparing the analysis tools: {{percent}}%',
+    preparingHint: 'First use only: about 160 MB, then they stay on this device and also work offline. You can already select text and areas to redact.',
+    stages: {
+      rules: 'Checking patterns (emails, IBANs, cards, codes)',
+      ner: 'Finding names',
+      models: 'Downloading the analysis tools (first use only)',
+    },
+    done: '{{count}} suggestions found. Review them before exporting.',
+    degraded: 'Automatic detection of names is unavailable. Pattern checks and manual redaction still work.',
+    reminder: 'Automatic detection can miss items. Check the document yourself before exporting.',
+  },
+  groups: {
+    automatic: 'Automatically detected',
+    manual: 'Manually selected',
+  },
+  confidence: {
+    high: 'High',
+    medium: 'Medium',
+    low: 'Suggestion',
+  },
+  categories: {
+    PERSON: 'Person',
+    LOCATION: 'Place',
+    ORGANIZATION: 'Organization',
+    EMAIL: 'Email',
+    PHONE: 'Phone',
+    IBAN: 'IBAN',
+    PAYMENT_CARD: 'Payment card',
+    URL: 'Web address',
+    IT_TAX_CODE: 'Tax code',
+    IT_VAT: 'VAT number',
+    ID_DOCUMENT: 'ID document',
+    CONTEXTUAL_ID: 'Identifier',
+    VEHICLE_PLATE: 'Number plate',
+  },
+  exporting: {
+    title: 'Redacting and verifying…',
+    redact: 'Removing the selected content',
+    verify: 'Checking the new file',
+  },
+  verified: {
+    title: 'Redaction complete',
+    itemsRemoved: '{{count}} items removed',
+    summary: 'We reopened the new file with two PDF engines: what you redacted is no longer there.',
+    details: 'Details of the {{count}} checks',
+    save: 'Save redacted PDF',
+    back: 'Back to review',
+  },
+  failed: {
+    title: 'We could not verify this redaction.',
+    body: 'The document was not marked as safely redacted.',
+    failedChecks: 'Checks that failed',
+    fault: {
+      verifierUnavailable: 'The check did not start on this device: the new file was not examined.',
+      parserFailed: 'One of the two verification engines (PDF.js) could not open the new file, so it was not examined.',
+      inspectorFailed: 'One of the two verification engines (MuPDF) could not open the new file, so it was not examined.',
+      bothEnginesFailed: 'Neither verification engine could open the new file, so it was not examined.',
+    },
+    pages: 'page {{pages}}',
+    back: 'Back to review',
+    saveAnyway: 'Save anyway…',
+  },
+  acknowledge: {
+    warning: 'This file has not been verified. It may still contain the information you asked to remove.',
+    checkbox: 'I understand this file may still contain the redacted information',
+    save: 'Save',
+    cancel: 'Cancel',
+  },
+  exportFailed: {
+    title: 'The redacted file could not be created.',
+    body: 'Nothing was saved. Your document is unchanged.',
+    back: 'Back to review',
+  },
+  checks: {
+    validPdf: 'Output PDF valid',
+    textAbsent: 'Redacted content not found',
+    geometry: 'No text left under the redaction boxes',
+    sideChannels: 'Metadata, comments, forms and attachments clean',
+    imagePixels: 'Image content under the boxes removed',
+    singleRevision: 'No earlier versions kept in the file',
+  },
+} as const;
+
+type Translation<T> = { readonly [K in keyof T]: T[K] extends string ? string : Translation<T[K]> };
+
+/** Every language must provide exactly these keys; a missing key is a compile error. */
+export type Translations = Translation<typeof en>;

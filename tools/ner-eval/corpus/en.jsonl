@@ -1,0 +1,160 @@
+{"text":"Mr. Jessica Wright has lived in Manchester since 2019.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":32,"end":42,"category":"LOCATION"}]}
+{"text":"Globex Corporation is headquartered in Liverpool.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":48,"category":"LOCATION"}]}
+{"text":"Hannah Robinson works for Acme Holdings Ltd..","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":26,"end":44,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by William Robinson on behalf of Umbrella Consulting Group.","entities":[{"start":28,"end":44,"category":"PERSON"},{"start":58,"end":83,"category":"ORGANIZATION"}]}
+{"text":"Please contact Sophie Johnson, head of the Manchester office.","entities":[{"start":15,"end":29,"category":"PERSON"},{"start":43,"end":53,"category":"LOCATION"}]}
+{"text":"Dr. Oliver Edwards examined the patient in Edinburgh.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":43,"end":52,"category":"LOCATION"}]}
+{"text":"Attorney Oliver Wilson represents Blue Harbor Bank in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":50,"category":"ORGANIZATION"}]}
+{"text":"Umbrella Consulting Group hired Harry Robinson as a consultant.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":32,"end":46,"category":"PERSON"}]}
+{"text":"Mr. Grace Smith has lived in Glasgow since 2019.","entities":[{"start":4,"end":15,"category":"PERSON"},{"start":29,"end":36,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in Glasgow.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":45,"category":"LOCATION"}]}
+{"text":"Hannah Williams works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":26,"end":49,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Daniel Walker on behalf of Northwind Traders.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":72,"category":"ORGANIZATION"}]}
+{"text":"Please contact Grace Edwards, head of the Edinburgh office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":51,"category":"LOCATION"}]}
+{"text":"Dr. Charlotte Walker examined the patient in Glasgow.","entities":[{"start":4,"end":20,"category":"PERSON"},{"start":45,"end":52,"category":"LOCATION"}]}
+{"text":"Attorney Emily Robinson represents Stark Engineering Ltd. in the case.","entities":[{"start":9,"end":23,"category":"PERSON"},{"start":35,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Blue Harbor Bank hired Hannah Walker as a consultant.","entities":[{"start":0,"end":16,"category":"ORGANIZATION"},{"start":23,"end":36,"category":"PERSON"}]}
+{"text":"Mr. Thomas Williams has lived in Cardiff since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":40,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in Birmingham.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":48,"category":"LOCATION"}]}
+{"text":"James Evans works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":11,"category":"PERSON"},{"start":22,"end":45,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by William Hughes on behalf of Contoso Pharmaceuticals.","entities":[{"start":28,"end":42,"category":"PERSON"},{"start":56,"end":79,"category":"ORGANIZATION"}]}
+{"text":"Please contact James Davies, head of the Birmingham office.","entities":[{"start":15,"end":27,"category":"PERSON"},{"start":41,"end":51,"category":"LOCATION"}]}
+{"text":"Dr. Michael Evans examined the patient in London.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":48,"category":"LOCATION"}]}
+{"text":"Attorney Sophie Walker represents Northwind Traders in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":51,"category":"ORGANIZATION"}]}
+{"text":"Northwind Traders hired Daniel Robinson as a consultant.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":24,"end":39,"category":"PERSON"}]}
+{"text":"Mr. James Wilson has lived in Cambridge since 2019.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":30,"end":39,"category":"LOCATION"}]}
+{"text":"Globex Corporation is headquartered in Cardiff.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":46,"category":"LOCATION"}]}
+{"text":"James Wright works for Stark Engineering Ltd..","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":23,"end":45,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by James Taylor on behalf of Contoso Pharmaceuticals.","entities":[{"start":28,"end":40,"category":"PERSON"},{"start":54,"end":77,"category":"ORGANIZATION"}]}
+{"text":"Please contact Jessica Brown, head of the Leeds office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":47,"category":"LOCATION"}]}
+{"text":"Dr. Olivia Wright examined the patient in Edinburgh.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":51,"category":"LOCATION"}]}
+{"text":"Attorney Jessica Smith represents Northwind Traders in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":51,"category":"ORGANIZATION"}]}
+{"text":"Blue Harbor Bank hired Charlotte Robinson as a consultant.","entities":[{"start":0,"end":16,"category":"ORGANIZATION"},{"start":23,"end":41,"category":"PERSON"}]}
+{"text":"Mr. Amelia Williams has lived in Cardiff since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":40,"category":"LOCATION"}]}
+{"text":"Acme Holdings Ltd. is headquartered in Bristol.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":46,"category":"LOCATION"}]}
+{"text":"Grace Taylor works for Stark Engineering Ltd..","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":23,"end":45,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Hannah Turner on behalf of Umbrella Consulting Group.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":80,"category":"ORGANIZATION"}]}
+{"text":"Please contact Grace Brown, head of the Birmingham office.","entities":[{"start":15,"end":26,"category":"PERSON"},{"start":40,"end":50,"category":"LOCATION"}]}
+{"text":"Dr. George Davies examined the patient in Edinburgh.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":51,"category":"LOCATION"}]}
+{"text":"Attorney George Davies represents Acme Holdings Ltd. in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":52,"category":"ORGANIZATION"}]}
+{"text":"Contoso Pharmaceuticals hired Michael Wilson as a consultant.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":30,"end":44,"category":"PERSON"}]}
+{"text":"Mr. Emily Robinson has lived in Cardiff since 2019.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":32,"end":39,"category":"LOCATION"}]}
+{"text":"Stark Engineering Ltd. is headquartered in Liverpool.","entities":[{"start":0,"end":22,"category":"ORGANIZATION"},{"start":43,"end":52,"category":"LOCATION"}]}
+{"text":"Emily Walker works for Globex Corporation.","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":23,"end":41,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Hannah Taylor on behalf of Contoso Pharmaceuticals.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":78,"category":"ORGANIZATION"}]}
+{"text":"Please contact Daniel Hughes, head of the Glasgow office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":49,"category":"LOCATION"}]}
+{"text":"Dr. Oliver Johnson examined the patient in Cambridge.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":43,"end":52,"category":"LOCATION"}]}
+{"text":"Attorney Charlotte Taylor represents Blue Harbor Bank in the case.","entities":[{"start":9,"end":25,"category":"PERSON"},{"start":37,"end":53,"category":"ORGANIZATION"}]}
+{"text":"Globex Corporation hired James Robinson as a consultant.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":25,"end":39,"category":"PERSON"}]}
+{"text":"Mr. William Thompson has lived in Edinburgh since 2019.","entities":[{"start":4,"end":20,"category":"PERSON"},{"start":34,"end":43,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in Cardiff.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":45,"category":"LOCATION"}]}
+{"text":"Harry Thompson works for Blue Harbor Bank.","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":25,"end":41,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by George Wilson on behalf of Northwind Traders.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":72,"category":"ORGANIZATION"}]}
+{"text":"Please contact Charlotte Robinson, head of the Dublin office.","entities":[{"start":15,"end":33,"category":"PERSON"},{"start":47,"end":53,"category":"LOCATION"}]}
+{"text":"Dr. Emily Hughes examined the patient in Bristol.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":41,"end":48,"category":"LOCATION"}]}
+{"text":"Attorney Jessica Wilson represents Umbrella Consulting Group in the case.","entities":[{"start":9,"end":23,"category":"PERSON"},{"start":35,"end":60,"category":"ORGANIZATION"}]}
+{"text":"Umbrella Consulting Group hired Oliver Brown as a consultant.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":32,"end":44,"category":"PERSON"}]}
+{"text":"Mr. Hannah Taylor has lived in Leeds since 2019.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":31,"end":36,"category":"LOCATION"}]}
+{"text":"Contoso Pharmaceuticals is headquartered in London.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":44,"end":50,"category":"LOCATION"}]}
+{"text":"Daniel Taylor works for Acme Holdings Ltd..","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":42,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Harry Edwards on behalf of Contoso Pharmaceuticals.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":78,"category":"ORGANIZATION"}]}
+{"text":"Please contact Amelia Hughes, head of the Edinburgh office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":51,"category":"LOCATION"}]}
+{"text":"Dr. George Taylor examined the patient in Oxford.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":48,"category":"LOCATION"}]}
+{"text":"Attorney Jessica Taylor represents Stark Engineering Ltd. in the case.","entities":[{"start":9,"end":23,"category":"PERSON"},{"start":35,"end":57,"category":"ORGANIZATION"}]}
+{"text":"Contoso Pharmaceuticals hired William Johnson as a consultant.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":30,"end":45,"category":"PERSON"}]}
+{"text":"Mr. William Johnson has lived in Cardiff since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":40,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in Manchester.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":48,"category":"LOCATION"}]}
+{"text":"George Taylor works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":47,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Thomas Walker on behalf of Blue Harbor Bank.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":71,"category":"ORGANIZATION"}]}
+{"text":"Please contact Jessica Johnson, head of the Edinburgh office.","entities":[{"start":15,"end":30,"category":"PERSON"},{"start":44,"end":53,"category":"LOCATION"}]}
+{"text":"Dr. Thomas Thompson examined the patient in Manchester.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":44,"end":54,"category":"LOCATION"}]}
+{"text":"Attorney Oliver Smith represents Blue Harbor Bank in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":49,"category":"ORGANIZATION"}]}
+{"text":"Umbrella Consulting Group hired Emily Evans as a consultant.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":32,"end":43,"category":"PERSON"}]}
+{"text":"Mr. Emily Taylor has lived in Manchester since 2019.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":30,"end":40,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in London.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":44,"category":"LOCATION"}]}
+{"text":"George Edwards works for Umbrella Consulting Group.","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":25,"end":50,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Thomas Davies on behalf of Umbrella Consulting Group.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":80,"category":"ORGANIZATION"}]}
+{"text":"Please contact Thomas Edwards, head of the Dublin office.","entities":[{"start":15,"end":29,"category":"PERSON"},{"start":43,"end":49,"category":"LOCATION"}]}
+{"text":"Dr. Sophie Williams examined the patient in Cardiff.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":44,"end":51,"category":"LOCATION"}]}
+{"text":"Attorney Oliver Davies represents Umbrella Consulting Group in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":59,"category":"ORGANIZATION"}]}
+{"text":"Contoso Pharmaceuticals hired Oliver Hughes as a consultant.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":30,"end":43,"category":"PERSON"}]}
+{"text":"Mr. Charlotte Clarke has lived in London since 2019.","entities":[{"start":4,"end":20,"category":"PERSON"},{"start":34,"end":40,"category":"LOCATION"}]}
+{"text":"Acme Holdings Ltd. is headquartered in Leeds.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":44,"category":"LOCATION"}]}
+{"text":"Daniel Hughes works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":47,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by William Taylor on behalf of Northwind Traders.","entities":[{"start":28,"end":42,"category":"PERSON"},{"start":56,"end":73,"category":"ORGANIZATION"}]}
+{"text":"Please contact Michael Robinson, head of the Glasgow office.","entities":[{"start":15,"end":31,"category":"PERSON"},{"start":45,"end":52,"category":"LOCATION"}]}
+{"text":"Dr. Grace Davies examined the patient in Glasgow.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":41,"end":48,"category":"LOCATION"}]}
+{"text":"Attorney Olivia Wright represents Acme Holdings Ltd. in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":52,"category":"ORGANIZATION"}]}
+{"text":"Umbrella Consulting Group hired Sophie Hughes as a consultant.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":32,"end":45,"category":"PERSON"}]}
+{"text":"Mr. Amelia Smith has lived in Liverpool since 2019.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":30,"end":39,"category":"LOCATION"}]}
+{"text":"Contoso Pharmaceuticals is headquartered in Leeds.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":44,"end":49,"category":"LOCATION"}]}
+{"text":"Olivia Robinson works for Acme Holdings Ltd..","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":26,"end":44,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Jessica Robinson on behalf of Blue Harbor Bank.","entities":[{"start":28,"end":44,"category":"PERSON"},{"start":58,"end":74,"category":"ORGANIZATION"}]}
+{"text":"Please contact Oliver Taylor, head of the Dublin office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":48,"category":"LOCATION"}]}
+{"text":"Dr. George Williams examined the patient in Manchester.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":44,"end":54,"category":"LOCATION"}]}
+{"text":"Attorney Sophie Smith represents Umbrella Consulting Group in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":58,"category":"ORGANIZATION"}]}
+{"text":"Initech Ltd. hired Grace Smith as a consultant.","entities":[{"start":0,"end":12,"category":"ORGANIZATION"},{"start":19,"end":30,"category":"PERSON"}]}
+{"text":"Mr. Michael Brown has lived in London since 2019.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":31,"end":37,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in Cambridge.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":47,"category":"LOCATION"}]}
+{"text":"George Wright works for Stark Engineering Ltd..","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":46,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Emily Wilson on behalf of Acme Holdings Ltd..","entities":[{"start":28,"end":40,"category":"PERSON"},{"start":54,"end":72,"category":"ORGANIZATION"}]}
+{"text":"Please contact Jessica Walker, head of the Edinburgh office.","entities":[{"start":15,"end":29,"category":"PERSON"},{"start":43,"end":52,"category":"LOCATION"}]}
+{"text":"Dr. Grace Wilson examined the patient in Edinburgh.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":41,"end":50,"category":"LOCATION"}]}
+{"text":"Attorney Sophie Hughes represents Acme Holdings Ltd. in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":52,"category":"ORGANIZATION"}]}
+{"text":"Initech Ltd. hired Hannah Thompson as a consultant.","entities":[{"start":0,"end":12,"category":"ORGANIZATION"},{"start":19,"end":34,"category":"PERSON"}]}
+{"text":"Mr. William Evans has lived in Edinburgh since 2019.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":31,"end":40,"category":"LOCATION"}]}
+{"text":"Umbrella Consulting Group is headquartered in Edinburgh.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":46,"end":55,"category":"LOCATION"}]}
+{"text":"Emily Walker works for Initech Ltd..","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":23,"end":35,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Sophie Brown on behalf of Umbrella Consulting Group.","entities":[{"start":28,"end":40,"category":"PERSON"},{"start":54,"end":79,"category":"ORGANIZATION"}]}
+{"text":"Please contact James Williams, head of the Cardiff office.","entities":[{"start":15,"end":29,"category":"PERSON"},{"start":43,"end":50,"category":"LOCATION"}]}
+{"text":"Dr. William Hughes examined the patient in Cardiff.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":43,"end":50,"category":"LOCATION"}]}
+{"text":"Attorney Grace Davies represents Blue Harbor Bank in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":49,"category":"ORGANIZATION"}]}
+{"text":"Contoso Pharmaceuticals hired Thomas Davies as a consultant.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":30,"end":43,"category":"PERSON"}]}
+{"text":"Mr. Michael Hughes has lived in Oxford since 2019.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":32,"end":38,"category":"LOCATION"}]}
+{"text":"Initech Ltd. is headquartered in Leeds.","entities":[{"start":0,"end":12,"category":"ORGANIZATION"},{"start":33,"end":38,"category":"LOCATION"}]}
+{"text":"William Williams works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":16,"category":"PERSON"},{"start":27,"end":50,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Charlotte Williams on behalf of Stark Engineering Ltd..","entities":[{"start":28,"end":46,"category":"PERSON"},{"start":60,"end":82,"category":"ORGANIZATION"}]}
+{"text":"Please contact Sophie Clarke, head of the Edinburgh office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":51,"category":"LOCATION"}]}
+{"text":"Dr. Amelia Johnson examined the patient in Birmingham.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":43,"end":53,"category":"LOCATION"}]}
+{"text":"Attorney Olivia Brown represents Umbrella Consulting Group in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":58,"category":"ORGANIZATION"}]}
+{"text":"Acme Holdings Ltd. hired Olivia Clarke as a consultant.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":25,"end":38,"category":"PERSON"}]}
+{"text":"Mr. Oliver Thompson has lived in Cambridge since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":42,"category":"LOCATION"}]}
+{"text":"Initech Ltd. is headquartered in Leeds.","entities":[{"start":0,"end":12,"category":"ORGANIZATION"},{"start":33,"end":38,"category":"LOCATION"}]}
+{"text":"George Williams works for Umbrella Consulting Group.","entities":[{"start":0,"end":15,"category":"PERSON"},{"start":26,"end":51,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Thomas Smith on behalf of Northwind Traders.","entities":[{"start":28,"end":40,"category":"PERSON"},{"start":54,"end":71,"category":"ORGANIZATION"}]}
+{"text":"Please contact William Evans, head of the Cardiff office.","entities":[{"start":15,"end":28,"category":"PERSON"},{"start":42,"end":49,"category":"LOCATION"}]}
+{"text":"Dr. Emily Johnson examined the patient in Dublin.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":48,"category":"LOCATION"}]}
+{"text":"Attorney Amelia Edwards represents Initech Ltd. in the case.","entities":[{"start":9,"end":23,"category":"PERSON"},{"start":35,"end":47,"category":"ORGANIZATION"}]}
+{"text":"Stark Engineering Ltd. hired Oliver Hughes as a consultant.","entities":[{"start":0,"end":22,"category":"ORGANIZATION"},{"start":29,"end":42,"category":"PERSON"}]}
+{"text":"Mr. Charlotte Edwards has lived in Cardiff since 2019.","entities":[{"start":4,"end":21,"category":"PERSON"},{"start":35,"end":42,"category":"LOCATION"}]}
+{"text":"Northwind Traders is headquartered in London.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":38,"end":44,"category":"LOCATION"}]}
+{"text":"William Hughes works for Contoso Pharmaceuticals.","entities":[{"start":0,"end":14,"category":"PERSON"},{"start":25,"end":48,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Harry Williams on behalf of Initech Ltd..","entities":[{"start":28,"end":42,"category":"PERSON"},{"start":56,"end":68,"category":"ORGANIZATION"}]}
+{"text":"Please contact Harry Turner, head of the Oxford office.","entities":[{"start":15,"end":27,"category":"PERSON"},{"start":41,"end":47,"category":"LOCATION"}]}
+{"text":"Dr. Charlotte Smith examined the patient in London.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":44,"end":50,"category":"LOCATION"}]}
+{"text":"Attorney James Davies represents Globex Corporation in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":51,"category":"ORGANIZATION"}]}
+{"text":"Northwind Traders hired Michael Clarke as a consultant.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":24,"end":38,"category":"PERSON"}]}
+{"text":"Mr. Oliver Thompson has lived in Leeds since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":38,"category":"LOCATION"}]}
+{"text":"Acme Holdings Ltd. is headquartered in Liverpool.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":48,"category":"LOCATION"}]}
+{"text":"Grace Clarke works for Globex Corporation.","entities":[{"start":0,"end":12,"category":"PERSON"},{"start":23,"end":41,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Michael Walker on behalf of Initech Ltd..","entities":[{"start":28,"end":42,"category":"PERSON"},{"start":56,"end":68,"category":"ORGANIZATION"}]}
+{"text":"Please contact James Smith, head of the Cardiff office.","entities":[{"start":15,"end":26,"category":"PERSON"},{"start":40,"end":47,"category":"LOCATION"}]}
+{"text":"Dr. Jessica Johnson examined the patient in Glasgow.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":44,"end":51,"category":"LOCATION"}]}
+{"text":"Attorney Thomas Davies represents Stark Engineering Ltd. in the case.","entities":[{"start":9,"end":22,"category":"PERSON"},{"start":34,"end":56,"category":"ORGANIZATION"}]}
+{"text":"Umbrella Consulting Group hired Michael Brown as a consultant.","entities":[{"start":0,"end":25,"category":"ORGANIZATION"},{"start":32,"end":45,"category":"PERSON"}]}
+{"text":"Mr. Daniel Edwards has lived in Liverpool since 2019.","entities":[{"start":4,"end":18,"category":"PERSON"},{"start":32,"end":41,"category":"LOCATION"}]}
+{"text":"Initech Ltd. is headquartered in Liverpool.","entities":[{"start":0,"end":12,"category":"ORGANIZATION"},{"start":33,"end":42,"category":"LOCATION"}]}
+{"text":"Thomas Clarke works for Umbrella Consulting Group.","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":49,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Sophie Taylor on behalf of Umbrella Consulting Group.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":80,"category":"ORGANIZATION"}]}
+{"text":"Please contact Grace Thompson, head of the Bristol office.","entities":[{"start":15,"end":29,"category":"PERSON"},{"start":43,"end":50,"category":"LOCATION"}]}
+{"text":"Dr. Emily Edwards examined the patient in Bristol.","entities":[{"start":4,"end":17,"category":"PERSON"},{"start":42,"end":49,"category":"LOCATION"}]}
+{"text":"Attorney Emily Evans represents Contoso Pharmaceuticals in the case.","entities":[{"start":9,"end":20,"category":"PERSON"},{"start":32,"end":55,"category":"ORGANIZATION"}]}
+{"text":"Contoso Pharmaceuticals hired Daniel Brown as a consultant.","entities":[{"start":0,"end":23,"category":"ORGANIZATION"},{"start":30,"end":42,"category":"PERSON"}]}
+{"text":"Mr. Olivia Robinson has lived in Liverpool since 2019.","entities":[{"start":4,"end":19,"category":"PERSON"},{"start":33,"end":42,"category":"LOCATION"}]}
+{"text":"Globex Corporation is headquartered in Liverpool.","entities":[{"start":0,"end":18,"category":"ORGANIZATION"},{"start":39,"end":48,"category":"LOCATION"}]}
+{"text":"Harry Johnson works for Umbrella Consulting Group.","entities":[{"start":0,"end":13,"category":"PERSON"},{"start":24,"end":49,"category":"ORGANIZATION"}]}
+{"text":"The agreement was signed by Sophie Wright on behalf of Blue Harbor Bank.","entities":[{"start":28,"end":41,"category":"PERSON"},{"start":55,"end":71,"category":"ORGANIZATION"}]}
+{"text":"Please contact James Clarke, head of the Cambridge office.","entities":[{"start":15,"end":27,"category":"PERSON"},{"start":41,"end":50,"category":"LOCATION"}]}
+{"text":"Dr. James Walker examined the patient in London.","entities":[{"start":4,"end":16,"category":"PERSON"},{"start":41,"end":47,"category":"LOCATION"}]}
+{"text":"Attorney James Walker represents Globex Corporation in the case.","entities":[{"start":9,"end":21,"category":"PERSON"},{"start":33,"end":51,"category":"ORGANIZATION"}]}
+{"text":"Northwind Traders hired Charlotte Johnson as a consultant.","entities":[{"start":0,"end":17,"category":"ORGANIZATION"},{"start":24,"end":41,"category":"PERSON"}]}

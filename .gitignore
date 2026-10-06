@@ -1,0 +1,26 @@
+node_modules/
+dist/
+dist-e2e-fault/
+build/
+coverage/
+*.log
+.env*
+public/models/
+tests/fixtures/pdf/*.pdf
+tests/fixtures/pdf/*.txt
+test-results/
+playwright-report/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+public/ort/
+public/third-party-licenses.txt
+
+# Local tooling for the AI assistant (Claude skills, Spec Kit): kept on disk, not published.
+.claude/
+.specify/
+.wrangler/
+PRD.md

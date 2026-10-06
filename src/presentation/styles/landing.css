@@ -1,0 +1,343 @@
+.hero {
+  padding: 4.5rem 0 4rem;
+  background:
+    radial-gradient(60rem 30rem at 50% -10%, rgb(99 102 241 / 16%), transparent 70%),
+    radial-gradient(30rem 20rem at 90% 20%, rgb(14 165 233 / 10%), transparent 70%);
+}
+
+.hero__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.25rem;
+}
+
+.hero__title {
+  max-width: 50rem;
+  font-size: clamp(2rem, 4.5vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+}
+
+/* The key word of the promise, with a hand-drawn underline that draws itself once. */
+.hero__highlight {
+  position: relative;
+  display: inline-block;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.hero__highlight::after {
+  content: '';
+  position: absolute;
+  left: -0.04em;
+  right: -0.04em;
+  bottom: -0.12em;
+  height: 0.32em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 20' preserveAspectRatio='none'%3E%3Cpath d='M3 14 C 40 5, 90 4, 197 9' fill='none' stroke='%2306b6d4' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat center / 100% 100%;
+  clip-path: inset(0 0 0 0);
+  animation: highlight-draw 0.9s 0.25s cubic-bezier(0.65, 0, 0.35, 1) both;
+}
+
+@keyframes highlight-draw {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__highlight::after {
+    animation: none;
+  }
+}
+
+.hero__lead {
+  max-width: 48rem;
+  font-size: 1.15rem;
+  color: var(--ink-soft);
+}
+
+.hero__privacy {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--ok);
+  font-weight: 600;
+}
+
+.drop-zone {
+  width: 100%;
+  max-width: 44rem;
+  margin-top: 1rem;
+  padding: 3rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+  border: 2px dashed #a5b4fc;
+  border-radius: 20px;
+  background: rgb(255 255 255 / 80%);
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, background 0.15s, transform 0.15s;
+}
+
+.drop-zone:hover,
+.drop-zone--active {
+  border-color: var(--accent);
+  background: var(--tint);
+}
+
+.drop-zone--active {
+  transform: scale(1.01);
+}
+
+.drop-zone:focus-within {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+
+.drop-zone__icon {
+  display: grid;
+  place-items: center;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.drop-zone__title {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.drop-zone__or {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.drop-zone__meta {
+  margin-top: 0.4rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.stats {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 2rem;
+  color: var(--ink-soft);
+}
+
+.stats__item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stats__item .icon {
+  color: var(--accent);
+}
+
+.section {
+  padding: 4.5rem 0;
+}
+
+.section--tinted {
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.section__title {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 800;
+  text-align: center;
+}
+
+.section__subtitle {
+  max-width: 40rem;
+  margin: 0.75rem auto 0;
+  text-align: center;
+  color: var(--muted);
+}
+
+.steps {
+  list-style: none;
+  margin: 2.5rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.25rem;
+}
+
+.step {
+  position: relative;
+  padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.step h3 {
+  font-size: 1.15rem;
+}
+
+.step p {
+  color: var(--ink-soft);
+}
+
+.step__icon {
+  display: grid;
+  place-items: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 12px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.step__number {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--line-strong);
+}
+
+.chips {
+  list-style: none;
+  margin: 2rem auto 0;
+  padding: 0;
+  max-width: 56rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.65rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  background: var(--tint);
+  border: 1px solid var(--accent-soft);
+  font-weight: 500;
+}
+
+.chip .icon {
+  color: var(--accent);
+}
+
+
+
+
+
+
+
+
+
+
+
+.faq {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.faq__item {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--ground);
+  padding: 0 1.25rem;
+}
+
+.faq__item summary {
+  cursor: pointer;
+  padding: 1rem 0;
+  font-weight: 600;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.faq__item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq__item summary::after {
+  content: '+';
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--accent);
+}
+
+.faq__item[open] summary::after {
+  content: '–';
+}
+
+.faq__item p {
+  padding-bottom: 1.1rem;
+  color: var(--ink-soft);
+}
+
+.site-footer {
+  padding: 2.5rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.site-footer__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  text-align: center;
+}
+
+.site-footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 1.25rem;
+}
+
+.site-footer__links a {
+  color: var(--accent);
+}
+
+.site-footer__links a:hover {
+  color: var(--accent-hover);
+}
+
+.finds__group + .finds__group {
+  margin-top: 2.5rem;
+}
+
+.finds__title {
+  margin: 1.5rem 0 0;
+  text-align: center;
+  font-size: 1.15rem;
+}
+
+.chips--notDetects .chip {
+  background: transparent;
+  border-style: dashed;
+  border-color: #b8c2d3;
+  color: var(--muted);
+}
+
+.chips--notDetects .chip .icon {
+  color: var(--muted);
+}

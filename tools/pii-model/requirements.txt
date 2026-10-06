@@ -1,0 +1,8 @@
+torch
+transformers>=4.44,<5
+huggingface-hub>=0.34,<1.0
+seqeval
+accelerate
+onnx
+onnxruntime
+optimum[onnxruntime]

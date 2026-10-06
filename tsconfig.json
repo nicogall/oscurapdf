@@ -1,0 +1,65 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": [
+      "ES2023",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "types": [
+      "node",
+      "vite/client"
+    ],
+    "jsx": "react-jsx",
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "noFallthroughCasesInSwitch": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "paths": {
+      "@shared-kernel": [
+        "./src/shared-kernel/index.ts"
+      ],
+      "@shared-kernel/*": [
+        "./src/shared-kernel/*"
+      ],
+      "@ingestion": [
+        "./src/contexts/document-ingestion/index.ts"
+      ],
+      "@detection": [
+        "./src/contexts/detection/index.ts"
+      ],
+      "@review": [
+        "./src/contexts/redaction-review/index.ts"
+      ],
+      "@engine": [
+        "./src/contexts/redaction-engine/index.ts"
+      ],
+      "@verification": [
+        "./src/contexts/verification/index.ts"
+      ],
+      "@app/*": [
+        "./src/app/*"
+      ],
+      "@workers/*": [
+        "./src/workers/*"
+      ]
+    },
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "src",
+    "tests",
+    "tools",
+    "vite.config.ts",
+    "vitest.config.ts",
+    "playwright.config.ts"
+  ]
+}
